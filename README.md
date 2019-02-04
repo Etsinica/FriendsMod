@@ -1,0 +1,2 @@
+# FriendsMod
+A terraria mod
